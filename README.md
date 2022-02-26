@@ -11,4 +11,6 @@ ___
 ### **Technologies Used:**
 - HTML
 - CSS
+- Git/Github
+- Command Line
 ___
